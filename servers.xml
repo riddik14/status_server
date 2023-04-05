@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+
+<server id="1"><name>test google</name><host>www.google.it</host><port>443</port></server>
+<server id="2"><name>test google 2</name><host>8.8.8.8</host><port>443</port></server>
+
+</servers>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
